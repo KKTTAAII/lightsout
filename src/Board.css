@@ -1,0 +1,21 @@
+.Board {
+  border: 2px solid rgb(180, 133, 133);
+  border-radius: 5px;
+  width: 50vw;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.Board-table {
+  margin: 0 auto;
+
+}
+
+.Board-win {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 308px;
+  font-size: 30px;
+  font-weight: 15px;
+}
